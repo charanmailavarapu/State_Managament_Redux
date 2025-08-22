@@ -1,3 +1,21 @@
+Run Locally
+To run this project on your local system:
+
+# Clone the repository
+git clone https://github.com/charanmailavarapu/State_Managament_Redux.git
+cd TDD-TODO
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+
+# Run test cases (Jest + React Testing Library)
+npm test
+
+# Build for production
+npm run build
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
